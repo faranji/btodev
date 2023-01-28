@@ -1,0 +1,11 @@
+.hero{
+    background-color: lightslategray;
+    text-align: center;
+    height: 200px;
+    margin-top: 5px;
+    padding-top: 70px;
+}
+
+.navig{
+    background-color: darkgrey;
+}
