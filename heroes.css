@@ -1,35 +1,33 @@
 .hero{
-    background-color: lightslategray;
+    background-color: #CBABA4;
     text-align: center;
     height: 200px;
     margin-top: 5px;
     padding-top: 70px;
 }
 
-.navig{
-    background-color: black;
-}
+navbar{
+   height: 400px;
+}  /*neden çalışmıyo??*/
 
-/*
-.kare{
-    background-color: aqua;
-    width: 60%;
-    height: 40%;
-} 
-*/
 
 .ow{
     margin-left: 100px;
     margin-top: 20px;
     margin-right: 20px;
+    margin-bottom: 60px;
 }
 
 .footer{
-    background-color: grey; 
-    color:black; 
+    background-color: #CBABA4; 
+    color:grey; 
     position: fixed; 
     left: 0px; 
     bottom: 0; 
     width: 100%; 
     text-align: center;
+    height: 50px;
+    padding-top: 10px;
+    font-size: medium;
+    font-style: italic;
 }
