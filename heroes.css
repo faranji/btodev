@@ -7,11 +7,29 @@
 }
 
 .navig{
-    background-color: darkgrey;
+    background-color: black;
 }
 
+/*
 .kare{
     background-color: aqua;
-    width: 20px;
-    height: 200px;
+    width: 60%;
+    height: 40%;
+} 
+*/
+
+.ow{
+    margin-left: 100px;
+    margin-top: 20px;
+    margin-right: 20px;
+}
+
+.footer{
+    background-color: grey; 
+    color:black; 
+    position: fixed; 
+    left: 0px; 
+    bottom: 0; 
+    width: 100%; 
+    text-align: center;
 }
